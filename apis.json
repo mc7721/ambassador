@@ -1,0 +1,100 @@
+{
+    "name": "Ambassador",
+    "description": "Ambassador is the world-leading referral marketing software, running today\u2019s most popular referral programs. Visit us to learn, buy, and get support.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/985-ambassador.jpg",
+    "tags": [
+        "affiliates",
+        "api provider",
+        "have api",
+        "referrers",
+        "shopping",
+        "target"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ambassador\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ambassador",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/985-ambassador.jpg",
+            "humanURL": "http:\/\/getambassador.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ambassador-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ambassador-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.getambassador.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.getambassador.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ambassador"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/getambassador.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "jeff@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "chase@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "zach@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "will@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@getambassador.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@getAmbassador.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/GetAmbassador"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Ambassador"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/getambassador.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/getambassador.com"
+        }
+    ]
+}
